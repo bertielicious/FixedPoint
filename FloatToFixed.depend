@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1681991134 source:c:\users\user\documents\code blocks\float2fixed.c
+	<stdint.h>
+
+1682074741 source:c:\users\user\documents\code blocks\floattofixed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"../fixed2Float.h"
+	"../float2Fixed.h"
+	"../int2Fixed.h"
+	"../fixed2Int.h"
+	"../mul.h"
+	"../div.h"
+
+1681991134 source:c:\users\user\documents\code blocks\fixed2float.c
+	<stdint.h>
+
+1681990641 c:\users\user\documents\code blocks\fixed2float.h
+
+1681988583 c:\users\user\documents\code blocks\float2fixed.h
+
+1682012595 source:c:\users\user\documents\code blocks\int2fixed.c
+	<stdint.h>
+
+1682012514 c:\users\user\documents\code blocks\int2fixed.h
+
+1682013522 source:c:\users\user\documents\code blocks\fixed2int.c
+	<stdint.h>
+
+1682013522 c:\users\user\documents\code blocks\fixed2int.h
+
+1682016019 source:c:\users\user\documents\code blocks\mul.c
+	<stdint.h>
+
+1682016019 c:\users\user\documents\code blocks\mul.h
+
+1682018177 source:c:\users\user\documents\code blocks\div.c
+	<stdint.h>
+
+1682018656 c:\users\user\documents\code blocks\div.h
+
+1682020200 source:c:\users\user\documents\code blocks\divide.c
+	<stdint.h>
+
